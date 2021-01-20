@@ -1,0 +1,41 @@
+#navbar {
+    background-color: rgb(20, 20, 20);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#navbar a {
+    color: #eeeeee;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 18px;
+}
+#form input[type="text"] {
+    display: block;
+    background-color: rgb(217, 226, 245);
+}
+#form input[type="submit"] {
+    display: block;
+}
+#videos {
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    width: 300px;
+    padding: 5px;
+    padding-right: 200px;
+}
+#pics {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+}
+table {
+    width: 100%;
+}
